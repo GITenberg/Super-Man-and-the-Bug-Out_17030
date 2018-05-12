@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3826
     wikipedia: http://en.wikipedia.org/wiki/Cory_Doctorow
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17030#Super-Man-and-the-Bug-Out
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2005-11-20'
 gutenberg_type: Text
